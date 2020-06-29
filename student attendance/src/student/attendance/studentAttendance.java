@@ -55,6 +55,8 @@ public class studentAttendance extends javax.swing.JFrame {
             }
         });
 
+        jPanel5.setBackground(new java.awt.Color(168, 222, 245));
+
         jLabel2.setText("Course A");
 
         javax.swing.GroupLayout jPanel5Layout = new javax.swing.GroupLayout(jPanel5);
@@ -98,6 +100,8 @@ public class studentAttendance extends javax.swing.JFrame {
             }
         });
 
+        jPanel8.setBackground(new java.awt.Color(168, 222, 245));
+
         jLabel3.setText("Course B");
 
         javax.swing.GroupLayout jPanel8Layout = new javax.swing.GroupLayout(jPanel8);
@@ -140,6 +144,8 @@ public class studentAttendance extends javax.swing.JFrame {
                 jPanel9MouseClicked(evt);
             }
         });
+
+        jPanel10.setBackground(new java.awt.Color(168, 222, 245));
 
         jLabel4.setText("Course C");
 
